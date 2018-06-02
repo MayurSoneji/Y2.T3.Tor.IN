@@ -466,11 +466,3 @@ function createClues() {
 
     scoreText.text = 'Gotcha. The Debt collector caught you';
 
-
-
-
-
-
-
-
-    ~~~~
