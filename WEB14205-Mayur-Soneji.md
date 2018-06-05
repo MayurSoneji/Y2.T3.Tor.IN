@@ -35,7 +35,7 @@ We decided to take Monopoly and repurpose it with daily life. The aim of the gam
 
 - [Media Assets](https://drive.google.com/drive/folders/1sBYS45D7Q4Wt4emkJBNZxFP4TZeJysp_?usp=sharing)
 
-- [Board Game Production](https://drive.google.com/file/d/19zbT8dtb7lVI-O0zdVluQYlZEkeua-MO/view?usp=sharing)
+- [Board Game Production](https://drive.google.com/file/d/10i69dMR6p1bDuUyshU1R3Gkh0RDS69y0/view?usp=sharing)
 
 - [Digital Game Production](https://mayursoneji.github.io/taxevasion/)
 
